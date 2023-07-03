@@ -1,0 +1,29 @@
+.navbar{
+    display:flex ;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1250px;
+    height: 100px;
+    background-color: rgb(0, 128, 111);
+    margin-left: 100px; 
+}
+.sidebar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+     width: 100px;
+    height: 525px; 
+    background-color: rgb(0, 128, 111);
+    margin-top: 15px;
+   }
+footer{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap; 
+width: 1000px;
+height: 100px; 
+background-color: rgb(0, 128, 111);  
+margin-left: 200px;
+bottom: 70px; 
+position: absolute;
+}
